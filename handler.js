@@ -741,7 +741,7 @@ function _0x1ce7(){const _0xac1ac2=['212872fjshDh','17320yUXgkp','6019568oxJfgD'
                     lelebakar: 0,
                     leleg: 0,
                     level: 0,
-                    limit: 20,
+                    limit: 99999999,
                     limitjoinfree: 1,
                     lion: 0,
                     lionexp: 0,
