@@ -52,7 +52,7 @@ function _0x1ce7(){const _0xac1ac2=['212872fjshDh','17320yUXgkp','6019568oxJfgD'
                 if (!isNumber(user.exp)) user.exp = 0
                 if (!('premium' in user)) user.premium = false
                 if (!isNumber(user.joincount)) user.joincount = 2   
-                if (!isNumber(user.limit)) user.limit = 20
+                if (!isNumber(user.limit)) user.limit = 99999999999
                 if (!isNumber(user.money)) user.money = 15    	       
                 if (!('registered' in user)) user.registered = false
             if (!user.registered) {
